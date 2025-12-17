@@ -1,0 +1,14 @@
+h1{
+    color: cadetblue;
+    background-color: darkgrey;
+    border-style: double;
+    border-color: indianred;
+}
+
+p{
+    color: cornflowerblue;
+}
+
+a{
+    text-decoration: none;
+}

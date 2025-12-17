@@ -1,0 +1,37 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    color: rgb(145, 104, 55);
+}
+
+#navbar {
+         height: 70px;
+         width: 80;
+         background-color: #0f1111;
+
+}
+a{
+    text-decoration: none;
+    color: rgb(161, 161, 161);
+    background-color: azure;
+    border-style: double;
+    border-color: rgb(75, 117, 131);
+}
+
+button{
+    background-color: black;
+    color: antiquewhite;
+    border-style: double;
+    border-color: rgb(161, 161, 161);
+}
+
+a{
+    margin-right: 100px;
+}
+div{
+    background-color: hwb(190 34% 51%);
+    align-items: center;
+    border-style: double;
+    border-color: cornflowerblue
+
+}

@@ -1,0 +1,30 @@
+*{
+    MARGIN:0PX;
+   
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.hero{
+    height: 500;
+    width: 500;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5E3PBFSyPnknuMiDRNqvP4Qj7AUZmOFuMUQ&s);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p{
+    color: blue;
+    background-color: aliceblue;
+    border-style: double;
+    border-color: aquamarine;
+}
+
+h1{
+    color: blueviolet;
+    background-color: aliceblue;
+    border-style: double;
+    border-color: aquamarine;
+}

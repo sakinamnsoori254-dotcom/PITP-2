@@ -1,0 +1,53 @@
+div { 
+      width: 100px;
+      height: 100px;
+      margin: 25px;
+      padding: 50px;
+      display: inline-block;
+      border-style: dotted;
+      border-color: rgb(168, 50, 133);
+      color: rgb(10, 214, 146);
+}
+
+#box1 {
+    background-color: rgb(100, 69, 129);
+}
+
+#box2 {
+    background-color: rgb(123, 155, 145);
+}
+
+#box3{
+      background-color: rgb(91, 121, 141);
+}
+
+h1{
+    width: 300px;
+    height: 100px;
+    background-color: rgb(98, 168, 173);
+    color: azure;
+    border-radius: 15px;
+    border-style: dashed;
+    border-color: rgb(118, 83, 151);
+    text-align: center;
+}
+.abc{
+    background: url(https://tse4.mm.bing.net/th/id/OIP.NSd-ORVm72z0rvBchOhUvgHaE8?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3);
+    background-size: cover;
+}
+
+.xyz{
+    background: url(https://th.bing.com/th/id/R.11d019c2df5b49629b3603bfc4c263e0?rik=%2fJ41o%2bUekkh%2b0A&riu=http%3a%2f%2fhdwpro.com%2fwp-content%2fuploads%2f2015%2f12%2fAwesome-Red-Rose.jpg&ehk=%2fjzCE8Z3t9c%2fryWdjtLKJbnjfP3e9xvcSXjIvueRdE0%3d&risl=&pid=ImgRaw&r=0);
+    background-size: cover;
+}
+
+.roman{
+    background:url(https://tse4.mm.bing.net/th/id/OIP.7shzAMlSLGRfPABCwrIL6QHaE8?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3);
+    background-size: cover;
+}
+
+h4{
+    background-color: cadetblue;
+    color: bisque;
+    text-align: center;
+}
